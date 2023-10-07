@@ -5,7 +5,7 @@ A detailed static website meticulously crafted using HTML and CSS, with a height
 ## Preview
 
 <div align="center">
-  <img src="img/JWLI_Preview.gif" alt="JWLI Website Animated Preview">
+  <img src="img/JWLI.gif" alt="JWLI Website Animated Preview">
 </div>
 
 ## Features
